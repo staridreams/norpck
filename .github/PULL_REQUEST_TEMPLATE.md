@@ -3,7 +3,7 @@
 
 - [ ] Make sure you are requesting to **pull a topic/feature/bugfix branch** (right side). Don't request your main branch!
 - [ ] Make sure you are making a pull request against the **canary branch** (left side). Also you should start *your branch* off *our canary*.
-- [ ] Check the commit's or even all commits' message styles matches our requested structure.
+- [ ] Check the commit's or even all commits' message styles matches our requested structure. ([commit style](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit))
 - [ ] Check your code additions will fail neither code linting checks nor unit test.
 
 ### Description
